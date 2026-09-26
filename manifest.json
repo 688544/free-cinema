@@ -1,0 +1,17 @@
+{
+  "short_name": "ResCinema",
+  "name": "Res سينما - MovieBox",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/e50914/ffffff?text=Res",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0f0f0f",
+  "theme_color": "#0f0f0f",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar"
+}
